@@ -22,11 +22,11 @@ class FrequenciesofLimitedRangeArrayElements{
        // System.out.println(h);
     }
     public static void main(String[] args) {
-        int arr[]={2, 3, 2, 3, 5};
-        int n=5;
-        int p=5;
-        arr=frequencyCount(arr, n, p);
-        for(int i=0;i<n;i++)
-        System.out.println(arr[i]);
+        // int arr[]={2, 3, 2, 3, 5};
+        // int n=5;
+        // //int p=5;
+        // //arr=frequencyCount(arr, n, p);
+        // for(int i=0;i<n;i++)
+        // System.out.println(arr[i]);
     }
 }
